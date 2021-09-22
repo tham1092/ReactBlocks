@@ -1,0 +1,33 @@
+.Header{
+    min-height: 150px;
+    background-color: green;
+    margin-bottom: 20px;
+}
+.Navigation{
+    display: inline-block;
+    vertical-align: top;
+    min-height: 300px;
+    width: 200px;
+    background-color: blue;
+    margin-right: 20px;
+}
+.Main{
+    display: inline-block;
+    min-height: 400px;
+    width: auto;
+    background-color: red;
+    padding: 20px;
+}
+.Subcontents{
+    display: inline-block;
+    min-height: 200px;
+    width: 210px;
+    background-color: yellow;
+    margin-right: 10px;
+}
+.Advertisement {
+    min-height: 120px;
+    width: 660px;
+    background-color: purple;
+    margin-top: 20px;
+}
